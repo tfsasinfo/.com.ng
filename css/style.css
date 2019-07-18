@@ -1,0 +1,130 @@
+body {
+	margin: auto;
+	height: 0;
+	width: auto;
+	background-image: url('images/TFSAS.png');
+	background-attachment: auto;
+	background-color: brown;
+	background-repeat: repeat-x;
+
+}
+
+#weaper {
+	height: 230px;
+	width: auto;
+	background-color: orange;
+	text-align: center;
+	line-height: 5px;
+	letter-spacing: 6px;
+}
+#weaper img {
+	margin-top: 10px;
+	margin-bottom: 0;
+	border-radius: 80px;
+	width: 150px;
+	height: 120px;
+}
+
+h1 {
+	color: red;
+	font-family: arial black;
+}
+
+h2 {
+	color: green;
+	font-family: Harlow Solid Italic;
+}
+
+ul {
+	display: inline-block;
+	position: absolute;
+	height: 50px;
+	width: auto;
+	left: 135px;
+	right: 135px;
+	text-decoration: none;
+}
+
+button {
+	font-size: 11px;
+	box-shadow: 10px 5px 3px;
+	border-radius: 10px;
+	background-color: brown;
+	color: #fff;
+	font-family: arial black;
+	width: 130px;
+	height: 35px;
+}
+
+#background {
+	background: #fff;
+	margin-top: 5px;
+	width: auto;
+	box-shadow: 5px 10px 10px;
+	height: 220px;
+}
+
+ .Stage1 {
+	margin: 20px 10px;
+	padding: 30px 20px;
+	left: 10px;
+	break-inside: 10px;
+	position: relative;
+}
+
+.Stage1 img {
+	text-align: center;
+	margin-top: 0px;
+	display: inline;
+	border-radius: 35px;
+	width: 150px;
+	height: 120px;
+ }
+
+p{
+	float: right;
+	left: 5px;
+	color: white;
+	font-family: agneto;
+}
+
+.box {
+	text-align: center;
+	color: brown;
+	font-family: arial black;
+	font-size: 18px;
+	width: auto;
+	margin-top: 25px;
+	height: 400px;
+	background-color: #fff; 
+}
+
+.box img {
+	width: 150px;
+	margin-top: 25px; 
+	height: 150px;
+	box-shadow: 5px 10px 8px;
+	border-radius: 40px;
+}
+
+p1 {
+	font-family: Blackadder ITC;
+	color: red;
+	float: right;
+	margin-top: 30px; 
+}
+
+img {
+	width: 30px;
+	height: 30px;
+	border-radius: 40px;
+}
+
+#footer {
+	margin-top: 80px;
+	height: 80px;
+	width: auto;
+	background-color: orange;
+	text-align: center;
+	line-height: 10px;
+}
